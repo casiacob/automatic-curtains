@@ -2,8 +2,8 @@
 blinds controlled with a stepper motor
 
 Components:
-ESP8266
-Bipolar stepper motor
+ESP8266,
+Bipolar stepper motor,
 a4988 driver
 
 Description:
