@@ -1,6 +1,7 @@
 # automatic-curtains
 blinds controlled with a stepper motor
-components:
+
+Components:
 ESP8266 
 Bipolar stepper motor
 a4988 driver
